@@ -1,4 +1,4 @@
-keycode 9 = escape
+keycode 9 = Escape NoSymbol Escape
 keycode 49 = less greater less greater VoidSymbol VoidSymbol
 keycode 51 = grave sterling
 keycode 77 = F20
